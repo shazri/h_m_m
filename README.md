@@ -1,7 +1,7 @@
 # h_m_m
 hidden markov model (HMM)
 
-An easy to read refresher for HMM - matlab code, annotated with Dr Bert Huang video timestamps  
+An easy to read refresher for HMM - Matlab (R2016b v 9.1.0.441655), annotated with Dr Bert Huang video timestamps  
 ( https://www.youtube.com/watch?v=9yl4XGp5OEg ) contains forward-backward, EM - Baum-Welch.
 
 Best regards,
